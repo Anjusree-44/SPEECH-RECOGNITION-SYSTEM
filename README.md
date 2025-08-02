@@ -30,7 +30,5 @@ Upload a .wav audio file from their system.
 - 🌐 Runs entirely in the browser via Streamlit
 
 # OUTPUT 
-
-<img width="1920" height="1080" alt="c 2 2" src="https://github.com/user-attachments/assets/a76af217-1437-4088-8b83-993df661ea37" />
 <img width="1920" height="1080" alt="c 2 1" src="https://github.com/user-attachments/assets/000db46f-3b0c-434b-adf2-55de038c0ce2" />
-
+<img width="1920" height="1080" alt="c 2 2" src="https://github.com/user-attachments/assets/a76af217-1437-4088-8b83-993df661ea37" />
